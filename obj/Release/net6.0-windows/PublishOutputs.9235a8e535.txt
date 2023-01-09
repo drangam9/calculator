@@ -1,0 +1,5 @@
+C:\Users\Y530\Desktop\Calculator\Calculator.exe
+C:\Users\Y530\Desktop\Calculator\Calculator.dll
+C:\Users\Y530\Desktop\Calculator\Calculator.deps.json
+C:\Users\Y530\Desktop\Calculator\Calculator.runtimeconfig.json
+C:\Users\Y530\Desktop\Calculator\Calculator.pdb
